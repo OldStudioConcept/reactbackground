@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eef3e07e.chunk.css",
+    "main.js": "/static/js/main.fdbbb4ee.chunk.js",
+    "main.js.map": "/static/js/main.fdbbb4ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eb07c764.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eb07c764.js.map",
+    "static/js/2.0ee36f63.chunk.js": "/static/js/2.0ee36f63.chunk.js",
+    "static/js/2.0ee36f63.chunk.js.map": "/static/js/2.0ee36f63.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7c3e47abecd88bdf5417700fc9cfdf7e.js": "/precache-manifest.7c3e47abecd88bdf5417700fc9cfdf7e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eef3e07e.chunk.css.map": "/static/css/main.eef3e07e.chunk.css.map",
+    "static/js/2.0ee36f63.chunk.js.LICENSE.txt": "/static/js/2.0ee36f63.chunk.js.LICENSE.txt",
+    "static/media/autumn.jpg": "/static/media/autumn.5550dfde.jpg",
+    "static/media/spring.jpg": "/static/media/spring.50f53085.jpg",
+    "static/media/summer.jpg": "/static/media/summer.8874387a.jpg",
+    "static/media/winter.jpg": "/static/media/winter.dc38c5dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb07c764.js",
+    "static/js/2.0ee36f63.chunk.js",
+    "static/css/main.eef3e07e.chunk.css",
+    "static/js/main.fdbbb4ee.chunk.js"
+  ]
+}
